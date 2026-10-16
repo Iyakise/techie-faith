@@ -22,3 +22,4 @@ The same file includes the portfolio-informed biography, email address, and What
 
 The portfolio includes a lightweight WOW.js-style motion layer without a dependency: the hero animates in on load, sections reveal and stagger as they enter the viewport, the menu opens with a clipped transition, internal routes fade between pages, the scroll position drives a progress bar, and cards/buttons have hover transitions. Users who enable `prefers-reduced-motion` receive a static version automatically.
 # -techie-clockit-
+# techie-faith
